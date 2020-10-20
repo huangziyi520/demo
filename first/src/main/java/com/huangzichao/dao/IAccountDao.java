@@ -35,4 +35,5 @@ public interface IAccountDao {
      * @param id
      */
     void deleteAccount(Integer id);
+    void addNewAc();
 }
